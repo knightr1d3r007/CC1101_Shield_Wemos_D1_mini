@@ -16,9 +16,11 @@ However, I did an adaptation to the CC1101_v2 module which is currently the most
 ![Actual_module_being_used](CC1101_v2_Module.PNG)
 
 
+
 The Shield PCB's print shows 'RFMOGGY' on it, which is an awesome Radio frequency' project that inspired the creation of this PCB shield.
 
 https://github.com/gusgorman402/RFmoggy 
+
 
 
 ![PCB_gerber_2D](Gerber_CC1101_shield_pic.PNG)
