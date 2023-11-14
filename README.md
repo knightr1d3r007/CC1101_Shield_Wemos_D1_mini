@@ -1,6 +1,10 @@
 # CC1101_Shield_Wemos_D1_mini
 
-This is the CC1101_v2 module's shield for the 'Wemos ESP8266 D1 mini' board. This design for the 'PCB shield' has been made following the wiring design from LSatan's library for the CC1101 10pin module 
+This is the CC1101_v2 module's shield for the 'Wemos ESP8266 D1 mini' board. 
+![CC1101_v2 Shield](CC1101_Shield_Wemos_D1_mini/blob/main/PCB_CC1101_finished-pic.PNG)
+
+
+This design for the 'PCB shield' has been made following the wiring design from LSatan's library for the CC1101 10pin module 
 
 https://github.com/LSatan/SmartRC-CC1101-Driver-Lib 
 
