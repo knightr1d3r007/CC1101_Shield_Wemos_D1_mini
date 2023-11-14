@@ -13,6 +13,7 @@ However, I did an adaptation to the CC1101_v2 module which is currently the most
 (It has 8pins, blue color and with two circle-holes).
 
 
+
 ![Actual_module_being_used](CC1101_v2_Module.PNG)
 
 
@@ -23,6 +24,9 @@ https://github.com/gusgorman402/RFmoggy
 
 
 
+
 ![PCB_gerber_2D](Gerber_CC1101_shield_pic.PNG)
+
+
 
 
